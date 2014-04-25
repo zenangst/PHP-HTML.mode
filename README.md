@@ -1,7 +1,7 @@
 PHP-HTML.mode
 ===============
 
-Apache configuration mode for Coda 2
+PHP mode for Coda 2
 
 ## Installation (non Mac App Store version)
 
